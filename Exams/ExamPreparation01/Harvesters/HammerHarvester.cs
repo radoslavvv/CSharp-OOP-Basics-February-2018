@@ -7,3 +7,4 @@
         this.EnergyRequirement += this.EnergyRequirement;
     }
 }
+
