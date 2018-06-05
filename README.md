@@ -7,11 +7,16 @@
 <h1><strong>Labs:</strong></h1>
 <ol type="1">
 	
+	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/01.DefiningClasses/Lab-Solutions">Defining Classes</li>
+	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/02.WorkingWithAbstraction/Lab-Solutions">Working With Abstraction</li>
+	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/03.Encapsualtion/Lab-Solutions">Encapsualtion</li>
 </ol>
 
 <h1><strong>Exercises:</strong></h1>
 <ol type="1">
-	
+	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/01.DefiningClasses/Exercise-Solutions">Defining Classes</li>
+	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/02.WorkingWithAbstraction/Exercise-Solutions">Working With Abstraction</li>
+	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/03.Encapsualtion/Exercise-Solutions">Encapsualtion</li>
 </ol>
 
 <h1><strong><a href="">Bashoft</a></strong></h1>
