@@ -5,8 +5,7 @@
 <p style="text-align:center" >This repository contains my solutions for the problems in this course.</p>
 
 <h1><strong>Labs:</strong></h1>
-<ol type="1">
-	
+<ol>
 	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/01.DefiningClasses/Lab-Solutions">Defining Classes</li>
 	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/02.WorkingWithAbstraction/Lab-Solutions">Working With Abstraction</li>
 	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/03.Encapsualtion/Lab-Solutions">Encapsualtion</li>
