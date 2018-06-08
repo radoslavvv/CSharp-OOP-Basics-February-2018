@@ -13,7 +13,7 @@
 </ol>
 
 <h1><strong>Exercises:</strong></h1>
-<ol type="1">
+<ol>
 	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/01.DefiningClasses/Exercise-Solutions">Defining Classes</li>
 	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/02.WorkingWithAbstraction/Exercise-Solutions">Working With Abstraction</li>
 	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Basics-February-2018/tree/master/03.Encapsualtion/Exercise-Solutions">Encapsualtion</li>
